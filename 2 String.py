@@ -15,6 +15,5 @@ count+=1
 if j==len(p):
     print(f'Pattenr founded on {i} position')
 else:
-    count+=1
     print('Pattern not found')
 print(f'{count} comparisons')
